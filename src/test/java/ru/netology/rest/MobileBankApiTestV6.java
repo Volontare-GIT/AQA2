@@ -32,3 +32,4 @@ class MobileBankApiTestV6 {
           .statusCode(200);
     }
 }
+
